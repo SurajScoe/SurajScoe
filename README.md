@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Suraj Malge</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Aspire Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajscoe&label=Profile%20views&color=0e75b6&style=flat" alt="surajscoe" /> </p>
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12ARoNlHTz_cVZuCZK_W3s1J1_SEtoEGK/view?usp=sharing](https://drive.google.com/file/d/12ARoNlHTz_cVZuCZK_W3s1J1_SEtoEGK/view?usp=sharing)
 
-- ⚡ Fun fact **What are you Learning Today**
+- ⚡ Fun fact **is Learning JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
