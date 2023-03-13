@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12ARoNlHTz_cVZuCZK_W3s1J1_SEtoEGK/view?usp=sharing](https://drive.google.com/file/d/12ARoNlHTz_cVZuCZK_W3s1J1_SEtoEGK/view?usp=sharing)
 
-- ⚡ Fun fact **is Learning JavaScript**
+- ⚡ Fun fact **What are you Learning Today**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
