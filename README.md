@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/surajmalge5" target="blank"><img src="https://img.shields.io/twitter/follow/surajmalge5?logo=twitter&style=for-the-badge" alt="surajmalge5" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **JEE and ASP.NET Core MVC (.NET 8) Development**
 
 - 👨‍💻 All of my projects are available at [SurajScoe](SurajScoe)
 
