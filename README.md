@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **JEE and ASP.NET Core MVC (.NET 8) Development**
+- 🌱 I’m currently learning **J2EE and ASP.NET Core MVC (.NET 8) Development**
 
 - 👨‍💻 All of my projects are available at [SurajScoe](SurajScoe)
 
